@@ -1,2 +1,1 @@
-# indo
-Sample project
+Hi I am Kritika
